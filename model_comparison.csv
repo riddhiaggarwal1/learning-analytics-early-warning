@@ -1,0 +1,5 @@
+model,test_auc
+Background only (logistic regression),0.626
+Early behaviour only (logistic regression),0.699
+Background + behaviour (logistic regression),0.722
+Background + behaviour (gradient boosting),0.719

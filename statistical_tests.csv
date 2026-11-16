@@ -1,0 +1,3 @@
+question,detail,p_value,effect_size
+Are completers more active in weeks 1-4? (Mann-Whitney U),median active days 12 vs 7,below 1e-300,probability of superiority 0.67
+Is non-completion related to deprivation band? (chi-square),"chi2 = 415, 9 degrees of freedom",1.1e-83,Cramer's V 0.13
